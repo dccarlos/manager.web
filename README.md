@@ -1,8 +1,7 @@
 # Kafka Manager
 ## About Kafka Manager:
 
-*I was working on an amazing project about a Kafka for a company. I decided to create a Kafka Manager from scratch with my own specs and tools*
-
+*I was working on an amazing project about a Kafka Manager tool for a company. I decided to create a Kafka Manager from scratch with my own specs and tools*
 
 ### From GitHub
 
