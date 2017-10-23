@@ -1,5 +1,5 @@
 FROM centos:latest
-  RUN yum update \ 
+  RUN yum update -y \ 
       && yum install -y java-sdk \
       && yum install -y git \ 
       && yum clean all
